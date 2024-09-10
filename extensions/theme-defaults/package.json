@@ -44,6 +44,12 @@
         "path": "./themes/dark_vs.json"
       },
       {
+        "id": "Basic Pear Theme",
+        "label": "Basic Pear Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/basic_pear.json"
+      },
+      {
         "id": "Hacker",
         "label": "Hacker",
         "uiTheme": "vs-dark",
