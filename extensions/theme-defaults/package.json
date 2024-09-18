@@ -44,8 +44,8 @@
         "path": "./themes/dark_vs.json"
       },
       {
-        "id": "Basic Pear Theme",
-        "label": "Basic Pear Theme",
+        "id": "PearAI Basic Theme",
+        "label": "PearAI Basic Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/basic_pear.json"
       },
